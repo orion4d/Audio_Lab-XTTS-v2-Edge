@@ -4,8 +4,7 @@ Une interface web simple et puissante (Gradio) réunissant deux des meilleures t
 
 1. **XTTS v2 (Local)** : Clonage de voix haute fidélité.  
 2. **Microsoft Edge TTS (Cloud)** : Génération ultra-rapide et gratuite avec les voix Azure.
-
----
+<img width="2247" height="1201" alt="image" src="https://github.com/user-attachments/assets/56eca587-dd11-4084-b8b6-d2f8116171f0" />
 
 ## ✨ Fonctionnalités
 
