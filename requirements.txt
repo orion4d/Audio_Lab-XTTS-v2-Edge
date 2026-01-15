@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# 1. PyTorch (Priorité absolue pour le GPU)
+torch==2.5.1+cu118
+torchaudio==2.5.1+cu118
+torchvision==0.20.1+cu118
+
+# 2. Le moteur IA (On laisse TTS gérer numpy/scipy)
+transformers==4.42.4
+accelerate==1.12.0
+TTS==0.22.0
+
+# 3. Interface & Cloud
+gradio==6.3.0
+edge-tts==7.2.7
