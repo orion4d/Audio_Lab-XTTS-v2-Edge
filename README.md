@@ -91,6 +91,8 @@ pip install -r requirements.txt
 * **Licence Coqui** : XTTS v2 est sous licence *Coqui Public Model License* (utilisation non-commerciale par défaut, vérifiez les conditions sur Hugging Face).
 * **Connexion** : Edge TTS nécessite une connexion internet active.
 
+---
+
 ## 🙏 Crédits
 
 * **Interface** : [Gradio](https://gradio.app/)
